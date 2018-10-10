@@ -1,0 +1,7 @@
+node_modules/
+.DS_Store
+mochareports
+cypress/screenshots/
+cypress/videos/
+match-screenshots/
+test-report/
